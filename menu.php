@@ -22,6 +22,6 @@
         <li class="<?php echo ($Page == "right-sidebar" ? "current" : "")?>" ><a href="right-sidebar.php">Right Sidebar</a></li>
         <li class="<?php echo ($Page == "no-sidebar" ? "current" : "")?>" ><a href="no-sidebar.php">No Sidebar</a></li>
         <li class="<?php echo ($Page == "Wireframe_&_Mockups" ? "current" : "")?>" ><a href="Wireframe_&_Mockups.php">Wirefarme & Mockups</a></li>
-        <li class="<?php echo ($Page == "Urheber-Recht" ? "current" : "")?>" ><a href="Urheber-Recht.php">Urheber-Recht</a></li>
+        <li class="<?php echo ($Page == "Urheberrecht" ? "current" : "")?>" ><a href="Urheberrecht.php">Urheberrecht</a></li>
     </ul>
 </nav>
