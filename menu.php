@@ -1,6 +1,6 @@
 <nav id="nav">
     <ul>
-        <li class="current"><a href="index.html">Home</a></li>
+        <li class="<?php echo ($Page == "index" ? "current" : "")?>" ><a href="index.php">Home</a></li>
         <li>
             <a href="#">Dropdown</a>
             <ul>
@@ -18,9 +18,10 @@
                 <li><a href="#">Veroeros feugiat</a></li>
             </ul>
         </li>
-        <li><a href="left-sidebar.html">Left Sidebar</a></li>
-        <li><a href="right-sidebar.html">Right Sidebar</a></li>
-        <li><a href="no-sidebar.html">No Sidebar</a></li>
-        <li><a href="Wirefarme_&_Mockups.html">Wirefarme & Mockups</a></li>
+        <li class="<?php echo ($Page == "left-sidebar" ? "current" : "")?>" ><a href="left-sidebar.php">Left Sidebar</a></li>
+        <li class="<?php echo ($Page == "right-sidebar" ? "current" : "")?>" ><a href="right-sidebar.php">Right Sidebar</a></li>
+        <li class="<?php echo ($Page == "no-sidebar" ? "current" : "")?>" ><a href="no-sidebar.php">No Sidebar</a></li>
+        <li class="<?php echo ($Page == "Wireframe_&_Mockups" ? "current" : "")?>" ><a href="Wireframe_&_Mockups.php">Wirefarme & Mockups</a></li>
+        <li class="<?php echo ($Page == "Urheber-Recht" ? "current" : "")?>" ><a href="Urheber-Recht.php">Urheber-Recht</a></li>
     </ul>
 </nav>
