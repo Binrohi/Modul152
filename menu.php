@@ -23,5 +23,6 @@
         <li class="<?php echo ($Page == "no-sidebar" ? "current" : "")?>" ><a href="no-sidebar.php">No Sidebar</a></li>
         <li class="<?php echo ($Page == "Wireframe_&_Mockups" ? "current" : "")?>" ><a href="Wireframe_&_Mockups.php">Wirefarme & Mockups</a></li>
         <li class="<?php echo ($Page == "Urheberrecht" ? "current" : "")?>" ><a href="Urheberrecht.php">Urheberrecht</a></li>
+        <li class="<?php echo ($Page == "Impressum" ? "current" : "")?>" ><a href="Impressum.php">Impressum</a></li>
     </ul>
 </nav>
