@@ -11,16 +11,6 @@
 	<body class="is-preload">
 		<div id="page-wrapper">
 
-			<!-- Header -->
-				<header id="header">
-					<div class="logo container">
-						<div>
-							<h1><a href="index.html" id="logo">TXT</a></h1>
-							<p>A responsive site template by HTML5 UP</p>
-						</div>
-					</div>
-				</header>
-
 			<!-- Nav -->
 				<?php include "menu.php";?>
 
@@ -120,8 +110,58 @@
                                             <section>
                                                 <h3>12. Für den Fall, dass Social-Media-Plattformen urheberrechtlich geschützte Werke „automatisch” in meine Postings einbringen, ist dies eine Urheberrechtsverletzung und bin ich dafür verantwortlich? Was gilt, wenn ich auf urheberrechtlich geschützte Werke verlinke oder sie in meine Website oder meinen Blog einbette?</h3>
 												<p>
-                                                Wenn geschützte Werke automatisch auf Ihrer Pinnwand in sozialen Medien erscheinen und die andere Person nicht die Zustimmung des Urhebers für diese Nutzung eingeholt hat, sodass die Nutzung das Urheberrecht verletzt, ist es möglich, dass Sie dafür haften, und es könnte eine Urheberrechtsverletzung darstellen. Dies ist jedoch noch nicht abschließend von der Rechtsprechung geklärt. Jedenfalls ist es wahrscheinlich, dass Sie dafür haften, wenn Sie den Post gesehen haben und wussten oder hätten erkennen können, dass der Post rechtsverletzend war und wenn Sie diesen Post dann nicht sofort von Ihrer Pinnwand entfernt haben. Es dürfte also sicherer für Sie sein, solche Posts von Ihrer Pinnwand zu entfernen. Wenn Sie auf Werke verlinken, die vom Rechtsinhaber zum Zweck des freien Zugangs durch die Öffentlichkeit im Internet hochgeladen wurden, oder wenn Sie solche Werke auf der eigenen Website oder im Blog einbetten, können Sie dies tun, falls nicht der Rechtsinhaber technische Schutzmaßnahmen angewendet hat, um das Werk zu schützen. Wenn der Rechtsinhaber dem Hochladen nicht zugestimmt hatte und das Hochladen also eine Rechtsverletzung war, dürfen Sie nicht darauf verlinken oder es in Ihren Blog einbetten, wenn Sie die Rechtswidrigkeit der Veröffentlichung kannten oder hätten kennen müssen (bei Verlinkung mit Gewinnerzielungsabsicht wird die Kenntnis vermutet).
+                                                	Wenn geschützte Werke automatisch auf Ihrer Pinnwand in sozialen Medien erscheinen und die andere Person nicht die Zustimmung des Urhebers für diese Nutzung eingeholt hat, sodass die Nutzung das Urheberrecht verletzt, ist es möglich, dass Sie dafür haften, und es könnte eine Urheberrechtsverletzung darstellen. Dies ist jedoch noch nicht abschließend von der Rechtsprechung geklärt. Jedenfalls ist es wahrscheinlich, dass Sie dafür haften, wenn Sie den Post gesehen haben und wussten oder hätten erkennen können, dass der Post rechtsverletzend war und wenn Sie diesen Post dann nicht sofort von Ihrer Pinnwand entfernt haben. Es dürfte also sicherer für Sie sein, solche Posts von Ihrer Pinnwand zu entfernen. Wenn Sie auf Werke verlinken, die vom Rechtsinhaber zum Zweck des freien Zugangs durch die Öffentlichkeit im Internet hochgeladen wurden, oder wenn Sie solche Werke auf der eigenen Website oder im Blog einbetten, können Sie dies tun, falls nicht der Rechtsinhaber technische Schutzmaßnahmen angewendet hat, um das Werk zu schützen. Wenn der Rechtsinhaber dem Hochladen nicht zugestimmt hatte und das Hochladen also eine Rechtsverletzung war, dürfen Sie nicht darauf verlinken oder es in Ihren Blog einbetten, wenn Sie die Rechtswidrigkeit der Veröffentlichung kannten oder hätten kennen müssen (bei Verlinkung mit Gewinnerzielungsabsicht wird die Kenntnis vermutet).
 												</p>
+											</section>
+										</article>
+
+										<article class="box page-content">
+
+											<header>
+												<h2>Copyright</h2>
+                                                <p>Copyright steht für Urheberrecht. Es bedeutet das wenn jemand etwas erschfft das er danach die Rechte daran hat.</p>
+											</header>
+
+											<section>
+                                                <h3>Medien</h3>
+												<p>
+                                                    Sprich Bilder, Videos und Musik. Aber auch Software ist urheberrechtlich geschützt.
+												</p>
+											</section>
+
+											<section>
+                                                <h3>Datenschutz</h3>
+												<p>
+                                                    Wenn auf einem Bild das man selbst erstllt hat eine andere Person darauf zu erkennen ist muss man sich zuerst das Einverständniss dieser Person einholen bevor man dieses Bild irgendwo teilen kann.
+                                                </p>
+											</section>
+
+											<section>
+                                                <h3>Texte</h3>
+												<p>
+                                                    Wenn jemand ein Buch schreibt hat auch diese Person die Rechte daran die es geschriben hat.
+												</p>
+											</section>
+										</article>
+
+										<article class="box page-content">
+
+											<header>
+												<h2>Lizenzen</h2>
+											</header>
+
+											<section>
+                                                <h3>Public Domain</h3>
+												<p>
+                                                    Public Domain sind Werke welche nicht vom Urheberrexht geschützt werden.
+												</p>
+											</section>
+
+											<section>
+                                                <h3>Fair Use</h3>
+												<p>
+													Fair Use bedeutet das es faire Zwecke gibt Urheberrechtlich geschützte Inhalte trotzdem ohne einverständniss gebrauchen zu dürfen, z.B. für Bildung oder für Zeitungsberichte.
+                                                </p>
 											</section>
 										</article>
 								</div>

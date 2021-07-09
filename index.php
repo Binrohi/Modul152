@@ -3,23 +3,13 @@
 <html>
 	<head>
 		<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1f7aa78c-c868-4f0d-a39e-2914a5d0cc6a" data-blockingmode="auto" type="text/javascript"></script>
-		<title>Robin Vogler's Page</title>
+		<title>Startseite</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="homepage is-preload">
 		<div id="page-wrapper">
-			
-				<!-- Header -->
-				<header id="header">
-					<div class="logo container">
-						<div>
-							<h1><a href="index.html" id="logo">TXT</a></h1>
-							<p>A responsive site template by HTML5 UP</p>
-						</div>
-					</div>
-				</header>
 
 			<!-- Nav -->
 				<?php include "menu.php";?>
@@ -27,9 +17,8 @@
 			<!-- Banner -->
 				<section id="banner">
 					<div class="content">
-						<h2>Welcome to Robin Vogler's webpage</h2>
-						<a href="https://github.com/Binrohi/Modul152">This is my github</a>
-						<a href="#main" class="button scrolly">Alright let's go</a>
+						<h2>Willkommen auf meiner Webseite</h2>
+						<a href="https://github.com/Binrohi/Modul152" class="button">Mein Github</a>
 					</div>
 				</section>
 
@@ -41,19 +30,56 @@
 
 								<!-- Highlight -->
 									<section class="box highlight">
-										<ul class="special">
-											<li><a href="#" class="icon solid fa-search"><span class="label">Magnifier</span></a></li>
-											<li><a href="#" class="icon solid fa-tablet-alt"><span class="label">Tablet</span></a></li>
-											<li><a href="#" class="icon solid fa-flask"><span class="label">Flask</span></a></li>
-											<li><a href="#" class="icon solid fa-cog"><span class="label">Cog?</span></a></li>
-										</ul>
 										<header>
-											<h2>A random assortment of icons in circles</h2>
-											<p>And some text that attempts to explain their significance</p>
+											<h1 style="font-size:50px;">Zeitplan</h1>
 										</header>
+									</section>
+									<section>
+										<h2>Tag 1(21.05.2021)</h2>
 										<p>
-											Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu<br />
-											ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus amet pulvinar. Nam nec turpis consequat.
+											Ich habe einen Webspace auf bplaced.net eingerichtet und ein Template auf der Seite hochgeladen.
+										</p>
+									</section>
+									<section>
+										<h2>Tag 2(81.05.2021)</h2>
+										<p>
+											Ich habe einen Artikel zu Storytelling gelesen und habe Mokups, besser gesagt Wireframes für meine Webseite gemacht.
+										</p>
+									</section>
+									<section>
+										<h2>Tag 3(04.06.2021)</h2>
+										<p>
+											Ich habe meinen Styleguide erstellt.
+										</p>
+									</section>
+									<section>
+										<h2>Tag 4(11.06.2021)</h2>
+										<p>
+											Ich habe mich mit dem Urheberrecht auseinandergesetzt und dazu 12 Fragen mit Antworten hinzugefügt.
+										</p>
+									</section>
+									<section>
+										<h2>Tag 5(18.06.2021)</h2>
+										<p>
+											Ich habe eine Cookie meldung hinzugefügt und mich über copyright und copyleft informiert.
+										</p>
+									</section>
+									<section>
+										<h2>Tag 6(25.06.2021)</h2>
+										<p>
+											Ich habe angefange meine Dateien für die Einbindung zu erstellen.
+										</p>
+									</section>
+									<section>
+										<h2>Tag 7(02.07.2021)</h2>
+										<p>
+											Ich habe angefangen an Animationen zu arbeiten.
+										</p>
+									</section>
+									<section>
+										<h2>Tag 4(09.07.2021)</h2>
+										<p>
+											Ich habe alles abgeschlossen und abgegeben.
 										</p>
 									</section>
 
@@ -61,165 +87,59 @@
 							<div class="col-12">
 
 								<!-- Features -->
-									<section class="box features">
-										<h2 class="major"><span>A Major Heading</span></h2>
-										<div>
-											<div class="row">
-												<div class="col-3 col-6-medium col-12-small">
-
-													<!-- Feature -->
-														<section class="box feature">
-															<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-															<h3><a href="#">A Subheading</a></h3>
-															<p>
-																Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-																lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-															</p>
-														</section>
-
-												</div>
-												<div class="col-3 col-6-medium col-12-small">
-
-													<!-- Feature -->
-														<section class="box feature">
-															<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-															<h3><a href="#">Another Subheading</a></h3>
-															<p>
-																Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-																lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-															</p>
-														</section>
-
-												</div>
-												<div class="col-3 col-6-medium col-12-small">
-
-													<!-- Feature -->
-														<section class="box feature">
-															<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-															<h3><a href="#">And Another</a></h3>
-															<p>
-																Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-																lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-															</p>
-														</section>
-
-												</div>
-												<div class="col-3 col-6-medium col-12-small">
-
-													<!-- Feature -->
-														<section class="box feature">
-															<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-															<h3><a href="#">And One More</a></h3>
-															<p>
-																Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-																lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-															</p>
-														</section>
-
-												</div>
-												<div class="col-12">
-													<ul class="actions">
-														<li><a href="#" class="button large">Do Something</a></li>
-														<li><a href="#" class="button alt large">Think About It</a></li>
-													</ul>
-												</div>
-											</div>
-										</div>
+								<section class="box highlight">
+										<header>
+											<h1 style="font-size:50px;">Reflexion</h1>
+										</header>
 									</section>
-
-							</div>
-							<div class="col-12">
-
-								<!-- Blog -->
-									<section class="box blog">
-										<h2 class="major"><span>Another Major Heading</span></h2>
-										<div>
-											<div class="row">
-												<div class="col-9 col-12-medium">
-													<div class="content">
-
-														<!-- Featured Post -->
-															<article class="box post">
-																<header>
-																	<h3><a href="#">Here's a really big heading</a></h3>
-																	<p>With a smaller subtitle that attempts to elaborate</p>
-																	<ul class="meta">
-																		<li class="icon fa-clock">15 minutes ago</li>
-																		<li class="icon fa-comments"><a href="#">8</a></li>
-																	</ul>
-																</header>
-																<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
-																<p>
-																	Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in lectus. Praesent
-																	semper mod quis eget mi. Etiam sed ante risus aliquam erat et volutpat. Praesent a
-																	dapibus velit. Curabitur sed nisi nunc, accumsan vestibulum lectus. Lorem ipsum
-																	dolor sit non aliquet sed, tempor et dolor. Praesent a dapibus velit. Curabitur
-																	accumsan.
-																</p>
-																<a href="#" class="button">Continue Reading</a>
-															</article>
-
-													</div>
-												</div>
-												<div class="col-3 col-12-medium">
-													<div class="sidebar">
-
-														<!-- Archives -->
-															<ul class="divided">
-																<li>
-																	<article class="box post-summary">
-																		<h3><a href="#">A Subheading</a></h3>
-																		<ul class="meta">
-																			<li class="icon fa-clock">6 hours ago</li>
-																			<li class="icon fa-comments"><a href="#">34</a></li>
-																		</ul>
-																	</article>
-																</li>
-																<li>
-																	<article class="box post-summary">
-																		<h3><a href="#">Another Subheading</a></h3>
-																		<ul class="meta">
-																			<li class="icon fa-clock">9 hours ago</li>
-																			<li class="icon fa-comments"><a href="#">27</a></li>
-																		</ul>
-																	</article>
-																</li>
-																<li>
-																	<article class="box post-summary">
-																		<h3><a href="#">And Another</a></h3>
-																		<ul class="meta">
-																			<li class="icon fa-clock">Yesterday</li>
-																			<li class="icon fa-comments"><a href="#">184</a></li>
-																		</ul>
-																	</article>
-																</li>
-																<li>
-																	<article class="box post-summary">
-																		<h3><a href="#">And Another</a></h3>
-																		<ul class="meta">
-																			<li class="icon fa-clock">2 days ago</li>
-																			<li class="icon fa-comments"><a href="#">286</a></li>
-																		</ul>
-																	</article>
-																</li>
-																<li>
-																	<article class="box post-summary">
-																		<h3><a href="#">And One More</a></h3>
-																		<ul class="meta">
-																			<li class="icon fa-clock">3 days ago</li>
-																			<li class="icon fa-comments"><a href="#">8,086</a></li>
-																		</ul>
-																	</article>
-																</li>
-															</ul>
-															<a href="#" class="button alt">Archives</a>
-
-													</div>
-												</div>
-											</div>
-										</div>
+									<section>
+										<h2>K1 - Konzept</h2>
+										<p>
+											Ich habe den Unterschied zwischen Wirframes und Mockups gelernt und ich habe erfahren was ein styleguide ist. Ich finde dieser Punkt ist mir mässig gut gelungen, weil ich mühe hatte bei der erstellung der Wireframes.
+										</p>
 									</section>
-
+									<section>
+										<h2>K2 - Urheberrecht</h2>
+										<p>
+											Ich habe viel über Urheberrecht gelernt. Zudem habe ich auch einiges über Lizenzen und Copyright erfahren. Ausserdem weiss ich jetzt wie man ein Impressum führt und wie man cookies in die Webseite einbindet. Ich denke dieser Punkt ist mir gut gelungen, weil alles verstanden habe was ich benutzt habe.
+										</p>
+									</section>
+									<section>
+										<h2>K3 - Dateiformate integrieren</h2>
+										<p>
+											Ich habe einige mir neue Dateiformate kennengelernt. z.B. wusste ich nicht das es das Format .ogg gib, ausserdem dachte ich nicht das es so ein starkes Format ist. Ich finde dieser Punkt ist mir gut gelungen, das einzige das ich hier zu bemängeln habe ist das Meine Bilder viel zu gross sind und es ewigkeiten braucht zum laden. Das würde ich beim nächsten mal sicher besser machen.
+										</p>
+									</section>
+									<section>
+										<h2>K4 - Dateiformate vergleichen</h2>
+										<p>
+											Ich habe gemerkt das es andere Formate gibt welche sogar teilweise geigneter sind als diese die ich gerne brauche. Dieser Punkt ist mir nich gelungen, da die Zeit knapp war gegen Ende hin.
+										</p>
+									</section>
+									<section>
+										<h2>K5 - Animationen</h2>
+										<p>
+											Ich wusste nicht das es SVG Animationen gibt. Diese Animationen haben sich aber als mein Favorit herausgestellt. Die canvas Animation fand ich am schwierigsten. Ich finde dieser Punkt ist mir sehr gut gelungen es gibt dort nichts das mir nicht gefällt.
+										</p>
+									</section>
+									<section>
+										<h2>K6 - Automatisierung</h2>
+										<p>
+											Hier habe ich einfach ein Textfeld genommen und ihm einen Typ gegeben. Dieses wird automatisch vervollständigt. Dieser Punkt ist mir auch gelunge da er nicht besonders gross war.
+										</p>
+									</section>
+									<section>
+										<h2>K7 - Testing</h2>
+										<p>
+											Ich habe angefangen an Animationen zu arbeiten.
+										</p>
+									</section>
+									<section>
+										<h2>K8 - Reflexion</h2>
+										<p>
+											Beim reflektieren hab ich nicht wirklich etwas neues gelernt, aber es ist mir sicherlich gelungen.
+										</p>
+									</section>
 							</div>
 						</div>
 					</div>

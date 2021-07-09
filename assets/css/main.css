@@ -3105,3 +3105,86 @@ input, select, textarea {
 			}
 
 	}
+
+#effect{
+	background-color: #ff0000;
+}
+
+#effect2{
+	background-color: #ffa500;
+	animation-name: askew-out;
+	animation-duration: 250ms;
+}
+
+#effect3{
+	background-color: #008000;
+}
+
+@keyframes shake{
+	0%{
+		transform: translate(0px, 0px);
+	}
+	15%{
+		transform: translate(10px, 0px);
+	}
+	35%{
+		transform: translate(-10px, 0px);
+	}
+	50%{
+		transform: translate(10px, 0px);
+	}
+	80%{
+		transform: translate(-10px, 0px);
+	}
+	100%{
+		transform: translate(0px, 0px);
+	}
+}
+
+@keyframes walk_around{
+	0%{
+		transform: translate(0px, 0px);
+	}
+	25%{
+		transform: translate(0px, 10px);
+		height:50px;
+	}
+	30%{
+		transform: translate(0px, -160px) rotate(180deg);
+		height:60px;
+	}
+	50%{
+		transform: translate(0px, 0px) rotate(360deg);
+	}
+	100%{
+		transform: translate(0px, 0px);
+	}
+}
+
+@keyframes turn{
+	0%{
+		transform: rotate(0deg);
+	}
+	100%{
+		transform: rotate(360deg);
+	}
+}
+
+
+#effect:focus{
+	background-color: #8b0000;
+	animation-name: shake;
+	animation-duration: 250ms;
+}
+
+#effect2:focus{
+	background-color: #ff8c00;
+	animation-name: walk_around;
+	animation-duration: 1000ms;
+}
+
+#effect3:focus{
+	background-color: #006400;
+	animation-name: turn;
+	animation-duration: 2000ms;
+}
