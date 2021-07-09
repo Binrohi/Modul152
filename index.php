@@ -77,7 +77,7 @@
 										</p>
 									</section>
 									<section>
-										<h2>Tag 4(09.07.2021)</h2>
+										<h2>Tag 8(09.07.2021)</h2>
 										<p>
 											Ich habe alles abgeschlossen und abgegeben.
 										</p>
@@ -131,7 +131,7 @@
 									<section>
 										<h2>K7 - Testing</h2>
 										<p>
-											Ich habe angefangen an Animationen zu arbeiten.
+											Ich habe ein Testprotokoll erstellt und habe die Test alle ausgeführt. Für die Browser Kompatibilitäts Test habe ich auch noch screenshots angefertig. Dieser Punkt ist mir gut gelungen, ich hätte es villeicht noch ein bischen ausführlicher machen können.
 										</p>
 									</section>
 									<section>
